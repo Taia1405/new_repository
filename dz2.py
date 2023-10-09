@@ -20,7 +20,7 @@ def date_range(date1, date2):
       date1 = date1 + timedelta(days=1)
     print(diff)
   else:
-    l = 1
+    l = 2
     print(l)
 date_range('2022-01-01', '2022-01-03')
 
